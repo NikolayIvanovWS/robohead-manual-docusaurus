@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Инструкция к робоголове Bbrain',
   tagline: 'Bbrain Voltbro',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo-sqare.svg',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -77,7 +77,7 @@ const config = {
         title: 'Инструкция Bbrain ',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo-sqare.svg',
         },
         items: [
           {
