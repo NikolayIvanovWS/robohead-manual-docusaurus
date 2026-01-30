@@ -1,5 +1,4 @@
 ---
-slug: /
 id: intro
 title: Общая информация
 sidebar_position: 1

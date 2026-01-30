@@ -28,3 +28,10 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+
+/* Размер шрифта пунктов sidebar */
+.theme-doc-sidebar-item-link,
+.theme-doc-sidebar-item-category {
+  font-size: 14px; /* или 0.9rem / 15px */
+}
