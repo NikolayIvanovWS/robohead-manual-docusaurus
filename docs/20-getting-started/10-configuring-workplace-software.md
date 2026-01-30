@@ -26,32 +26,27 @@ title: Настройка ПО рабочего места
 Если вы хотите «окунуться» в мир Linux и ROS, но нет возможности установить Ubuntu отдельной операционной системой, то лучший вариант - установка программы для виртуализации VitrualBox :
 
 1. **Установите и настройте VirtualBox**  
-   - Скачайте образ ОС Ubuntu 20.04.6 LTS: [Ubuntu 20.04.6 LTS](https://releases.ubuntu.com/20.04/)  
+   - Скачайте образ ОС Ubuntu 24.04.3 LTS: [Ubuntu 24.04.3 LTS](https://releases.ubuntu.com/noble/)  
    - Скачайте програму VirtualBox: [VirtualBox Downloads](https://www.virtualbox.org/wiki/Downloads)  
    - Следуйте видео-руководству по установке и настройке: [Видео-руководство 1](https://vkvideo.ru/video-206862623_456239459)  
     
 
-2. **Установите ROS Noetic Ninjemys**  
-   - Следуйте нашему видео-руководству по установке: [Видео-руководство 2](https://vkvideo.ru/video-206862623_456239462)
-
-        или
-   - Следуйте инструкциям на официальном сайте: [ROS Noetic Installation Guide](https://wiki.ros.org/noetic/Installation/Ubuntu)
+2. **Установите ROS2 Jazzy Jalisco**  
+   - Следуйте инструкциям на официальном сайте: [ROS Jazzy Installation Guide](https://docs.ros.org/en/jazzy/Installation/Ubuntu-Install-Debs.html)
 
 ---
 
-## Рекомендуемый вариант: отдельная операционная система Ubuntu 20.04 LTS
+## Рекомендуемый вариант: отдельная операционная система Ubuntu 24.04 LTS
 
 Лучший выбор для полноценной работы со всеми функциями ROS:
 
-1. **Установите Ubuntu 20.04**  
-   - Скачайте образ ОС с официального сайта: [Ubuntu 20.04](https://releases.ubuntu.com/20.04/)  
+1. **Установите Ubuntu 24.04**  
+   - Скачайте образ ОС с официального сайта: [Ubuntu 24.04.3 LTS](https://releases.ubuntu.com/noble/)   
    - Создайте загрузочную флешку (например, с помощью [Rufus](https://rufus.ie))
 
 2. **Установите ROS Noetic Ninjemys**  
-   - Следуйте нашему видео-руководству по установке: [Видео-руководство 2](https://vkvideo.ru/video-206862623_456239462)
 
-        или
-   - Следуйте инструкциям на официальном сайте: [ROS Noetic Installation Guide](https://wiki.ros.org/noetic/Installation/Ubuntu)
+   - Следуйте инструкциям на официальном сайте: [ROS Jazzy Installation Guide](https://docs.ros.org/en/jazzy/Installation/Ubuntu-Install-Debs.html)
 
 3. **Установите дополнительные программы**  
    - VSCode - для удобной работы с кодом  
@@ -63,6 +58,6 @@ title: Настройка ПО рабочего места
 
 - **Для быстрого старта** — Windows с базовыми программами  
 - **Для тестирования и обучения** — VirtualBox с Ubuntu  
-- **Для разработки и полноценной работы** — Ubuntu 20.04
+- **Для разработки и полноценной работы** — Ubuntu 24.04
 
 > _Совет:_ Если вы планируете серьёзно работать с ROS, мы настоятельно рекомендуем установить Ubuntu как основную операционную систему.

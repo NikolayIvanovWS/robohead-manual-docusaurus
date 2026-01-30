@@ -47,7 +47,16 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          routeBasePath: '/',
+          lastVersion: 'current',
+          versions:{
+            current: {
+              label: 'Bbrain 2.0',
+            },
+            '1.0.0':{
+              label: 'Bbrain 1.0',
+              banner: 'unmaintained',
+            },
+          },
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -71,6 +80,10 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
+          {
+            type: 'docsVersionDropdown',
+            position: 'right',
+          },
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
