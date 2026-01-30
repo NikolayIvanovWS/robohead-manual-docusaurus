@@ -169,7 +169,7 @@ title: Обновление образа операционной системы
 1. Перейдите в репозиторий `robohead`:
 
    ```bash
-   cd ~/robohead_ws/src/robohead
+   cd ~/robohead_ws/src/robohead2
    ```
 
 2. Синхронизируйте его, чтобы иметь актуальную версию:

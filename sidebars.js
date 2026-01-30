@@ -15,6 +15,7 @@ const sidebars = {
         'introduction/20-equipment',
         'introduction/30-hardware-configuration',
         
+        /**
         // Подраздел "Программное обеспечение"
         {
           type: 'category',
@@ -32,6 +33,7 @@ const sidebars = {
             'introduction/49-usb-cam',
           ],
         },
+        */
         'introduction/50-useful-links',
       ],
     },
@@ -70,6 +72,7 @@ const sidebars = {
         'setting-up-device/20-connecting-without-pswd',
 
         // Подраздел "Изменение стандартных настроек устройства"
+         /**
         {
           type: 'category',
           label: 'Изменение стандартных настроек устройства',
@@ -82,13 +85,15 @@ const sidebars = {
             'setting-up-device/35-microphone-backlight-control',
           ],
         },
-        'setting-up-device/40-сhanging-standart-media-files',
-        'setting-up-device/50-changing-keywords',
+        */
+        //'setting-up-device/40-сhanging-standart-media-files',
+        //'setting-up-device/50-changing-keywords',
         'setting-up-device/60-updating-os-image',
       ],
     },
 
     // 5. 40-working-with-device (РАБОТА С УСТРОЙСТВОМ)
+    /** 
     {
       type: 'category',
       label: 'Работа с устройством',
@@ -126,6 +131,7 @@ const sidebars = {
         'interfacing_with_mors/40-mors_controller',
       ],
     },
+    */
   ],
 };
 

@@ -44,7 +44,7 @@ title: Настройка ПО рабочего места
    - Скачайте образ ОС с официального сайта: [Ubuntu 24.04.3 LTS](https://releases.ubuntu.com/noble/)   
    - Создайте загрузочную флешку (например, с помощью [Rufus](https://rufus.ie))
 
-2. **Установите ROS Noetic Ninjemys**  
+2. **Установите ROS Jazzy Jalisco**  
 
    - Следуйте инструкциям на официальном сайте: [ROS Jazzy Installation Guide](https://docs.ros.org/en/jazzy/Installation/Ubuntu-Install-Debs.html)
 

@@ -7,13 +7,10 @@ title: Полезные ссылки
 Набор полезных ресурсов для работы с Робоголовой Bbrain и экосистемой проекта «Братья Вольт».
 
 - **Репозиторий с основным ROS-пакетом**  
-  [https://github.com/voltbro/robohead](https://github.com/voltbro/robohead) 
+  [https://github.com/voltbro/robohead2](https://github.com/voltbro/robohead2) 
 
 - **Образы операционной системы для роботизированной головы**  
   [https://disk.yandex.ru/d/NliXCVUiNLG3eg](https://disk.yandex.ru/d/NliXCVUiNLG3eg)
-
-- **Базовый курс по ROS Noetic**  
-  [https://voltbro.gitbook.io/new_bazovyi-kurs-po-ros](https://voltbro.gitbook.io/new_bazovyi-kurs-po-ros)
 
 - **Образовательный портал с уроками ROS**  
   [http://learn.voltbro.ru](http://learn.voltbro.ru)

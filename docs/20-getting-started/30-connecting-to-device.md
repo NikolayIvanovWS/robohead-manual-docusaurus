@@ -60,14 +60,8 @@ password: turtlew001
 После подключения к Робоголове рекомендуется перейти в репозиторий `robohead` и обновить его до последней версии:
 
 ```bash
-cd ~/robohead_ws/src/robohead
+cd ~/robohead_ws/src/robohead2
 git pull
 ```
 
 > ℹ️ **Совет:** Для первого подключения используйте SSH, чтобы проверить доступность устройства.
-
-Далее:
-- Подключение по SSH [→](31-connecting-via-ssh.md)
-- Подключение через VSCode [→](32-connecting-via-vscode.md)
-- Подключение по SFTP [→](33-connecting-via-sftp.md)
-- Настройка SSH-ключей (подключение без ввода пароля) [→](../30-setting-up-device/20-connecting-without-pswd.md)
